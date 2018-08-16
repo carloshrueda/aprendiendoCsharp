@@ -54,17 +54,21 @@ namespace SobreCargaOperadores1
             VectorEnteros v1 = new VectorEnteros();
             Console.WriteLine("Carga del primer vector");
             v1.Cargar();
+
             VectorEnteros v2 = new VectorEnteros();
             Console.WriteLine("Carga del segundo vector");
             v2.Cargar();
+
             Console.WriteLine("Primer Vector");
             v1.Imprimir();
             Console.WriteLine("Segundo Vector");
             v2.Imprimir();
+
             VectorEnteros vt;
             vt = v1 + v2;
             Console.WriteLine("Vector Resultante");
             vt.Imprimir();
+
             Console.ReadKey();
         }
     }
