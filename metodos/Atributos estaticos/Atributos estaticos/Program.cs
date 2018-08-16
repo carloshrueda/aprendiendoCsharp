@@ -32,19 +32,19 @@ namespace Atributos_estaticos
             //Acceso al atributo estático
             Console.WriteLine("Valor del atributo estático cantidad:" + Persona.cantidad + "\n");
 
-            Persona per1 = new Persona("juan", 30);
+            Persona per1 = new Persona("Juan", 30);
             per1.Imprimir();
 
             //Acceso al atributo estático
             Console.WriteLine("Valor del atributo estático cantidad:" + Persona.cantidad + "\n");
 
-            Persona per2 = new Persona("ana", 20);
+            Persona per2 = new Persona("Ana", 20);
             per2.Imprimir();
 
             //Acceso al atributo estático
             Console.WriteLine("Valor del atributo estático cantidad:" + Persona.cantidad + "\n");
 
-            Persona per3 = new Persona("luis", 10);
+            Persona per3 = new Persona("Luis", 10);
             per3.Imprimir();
 
             //Acceso al atributo estático
