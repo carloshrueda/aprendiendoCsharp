@@ -65,7 +65,7 @@ namespace SobreCargaOperadores1
             v2.Imprimir();
 
             VectorEnteros vt;
-            vt = v1 + v2;
+            vt = v1 + v2; //Uso de sobrecarga de operadores
             Console.WriteLine("Vector Resultante");
             vt.Imprimir();
 
