@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexadores2", "Indexadores2\Indexadores2.csproj", "{6BE35DB5-A1CD-476F-9655-84A5AC6FFE2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BE35DB5-A1CD-476F-9655-84A5AC6FFE2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BE35DB5-A1CD-476F-9655-84A5AC6FFE2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BE35DB5-A1CD-476F-9655-84A5AC6FFE2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BE35DB5-A1CD-476F-9655-84A5AC6FFE2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {015F147F-8A5F-4BA4-8F6E-DC2B1BECBC63}
+	EndGlobalSection
+EndGlobal
