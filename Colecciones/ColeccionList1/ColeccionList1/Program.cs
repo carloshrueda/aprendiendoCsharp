@@ -1,4 +1,20 @@
-﻿using System;
+﻿/*
+ * 
+ * La clase List<T> nos facilita administrar un conjunto de datos en forma similar a un vector por medio de subíndices.
+
+Esta clase trae una serie de ventajas con respecto a los vectores:
+
+No tenemos que definir en forma obligada el tamaño inicial de la colección.
+Puede crecer la colección a lo largo de la ejecución del programa.
+Podemos borrar elementos de cualquier posición dentro de la colección y automáticamente se reorganiza.
+Podemos insertar elementos en cualquier posición dentro de la colección.
+Contiene un método para ordenar la colección.
+Como desventaja podemos hacer notar que los tiempos de redimensionar la colección son costosos.
+ * 
+ * */
+
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
