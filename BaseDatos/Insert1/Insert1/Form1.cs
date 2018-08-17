@@ -38,6 +38,9 @@ namespace Insert1
             textBox1.Text = "";
             textBox2.Text = "";
             conexion.Close();
+
+            comando.Dispose();
+            conexion.Dispose();
         }
     }
 }
